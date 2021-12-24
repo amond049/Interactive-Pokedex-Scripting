@@ -7,3 +7,6 @@ Currently it is pretty bare bones, but it is able to get majority of the useful 
 even make it user-friendly with the help of Tkinter, but that's something for future me. 
 
 For the time being, I'm going to continue adding on features to this project, and I guess we shall see how far this goes. 
+
+
+This is a very similar project to one that I am working on with a friend, but this is solely for practice and to see how far I can get with web scraping. 
